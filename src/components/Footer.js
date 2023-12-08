@@ -4,7 +4,7 @@ const Footer = () => {
   return <footer className="bg-white border-t border-black py-12">
     <div className='container mx-auto text-white flex justify-between'>
       
-      <p className="text-black">Copyright &copy; 2023. All rights reserved <b className='text-black'> KACHI </b>.</p>
+      <p className="text-black">Copyright &copy; 2023. All rights reserved <a href="https://codecrafthub.tech" className='text-black'> CodeCraftHub </a>.</p>
     </div>
   </footer>;
 };
